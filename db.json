@@ -1,0 +1,362 @@
+{
+  "seller": [
+    {
+      "id": "37d8",
+      "name": "Vinayak",
+      "password": "vik@123",
+      "email": "email@123"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "ZAJDGrv"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "x1MEKlQ"
+    },
+    {
+      "name": "vinayak",
+      "password": "123",
+      "email": "email@123",
+      "id": "6QiKLm0"
+    },
+    {
+      "name": "shankar",
+      "password": "123",
+      "email": "shankar@seller.com",
+      "id": "rwPvlXK"
+    },
+    {
+      "name": "vinayak",
+      "password": "asdf",
+      "email": "vinayakkadlennavar@gmail.com",
+      "id": "4CBGlad"
+    }
+  ],
+  "products": [
+    {
+      "id": "6768",
+      "name": "Lenovo2",
+      "price": "45000",
+      "color": "black",
+      "category": "laptop",
+      "description": "Lenovo laptop with i5 10th Gen processor",
+      "image": "https://cdn.asiatatler.com/asiatatler/i/my/2021/02/23151149-yoga-lenovo-slim-9i-2021_article_1920x1200.png"
+    },
+    {
+      "name": "Samsung M33",
+      "price": "25000",
+      "color": "blue",
+      "category": "mobile",
+      "description": "Samsung M33 with 6 GB RAM and 128 GB Internal memory. 3 years of warranty.",
+      "image": "https://img.global.news.samsung.com/au/wp-content/uploads/2023/03/Galaxy-A-Series-KV.png",
+      "id": "def2"
+    },
+    {
+      "name": "Samsung S23",
+      "price": "125000",
+      "color": "purple",
+      "category": "mobile",
+      "description": "Samsung S23 with 8 GB RAM and 256 GB Internal memory. 4 years of warranty.",
+      "image": "https://images.samsung.com/is/image/samsung/assets/uk/mobile-phone-buying-guide/introducing-samsung-galaxy-s23/S23-article2-M.png?$FB_TYPE_B_PNG$",
+      "id": "ghi3"
+    },
+    {
+      "name": "Samsung M20",
+      "price": "35000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung M20 with 4 GB RAM and 64 GB Internal memory. 2 years of warranty.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/africa_en/sm-a245fzkvafc/gallery/africa-en-galaxy-a24-sm-a245-sm-a245fzkvafc-thumb-536327242?$344_344_PNG$",
+      "id": "jkl4"
+    },
+    {
+      "name": "Samsung S21",
+      "price": "55000",
+      "color": "grey",
+      "category": "mobile",
+      "description": "Samsung S21 with 12 GB RAM and 512 GB Internal memory. 5 years of warranty.",
+      "image": "https://img.global.news.samsung.com/sg/wp-content/uploads/2023/04/PR_The-Galaxy-A-Series-Is-More-Than-Just-Your-Phone-It_s-Your-Awesome-Companion_SEAO-Feature-Story-Image-1-1024x683.jpg",
+      "id": "mno5"
+    },
+    {
+      "name": "Samsung M14",
+      "price": "12000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung M14 with 6 GB RAM and 128 GB Internal memory. 3 years of warranty.",
+      "image": "https://www.zdnet.com/a/img/resize/74c5e844c2c4046fe01998ba273088e77516e65a/2023/05/12/e31e4896-cba6-4a78-b46a-196b5471969d/samsung-a14-5g.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "id": "pqr6"
+    },
+    {
+      "name": "Samsung M34",
+      "price": "15000",
+      "color": "sky blue",
+      "category": "mobile",
+      "description": "Samsung M34 with 8 GB RAM and 256 GB Internal memory. 4 years of warranty.",
+      "image": "https://www.businessinsider.in/thumb/msid-104175975,width-640,resizemode-4/Master.jpg",
+      "id": "stu7"
+    },
+    {
+      "name": "Samsung S10",
+      "price": "85000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung S10 with 6 GB RAM and 128 GB Internal memory. 3 years of warranty.",
+      "image": "https://i.gadgets360cdn.com/products/large/1550692389_635_samsung_galaxy_s10.jpg?downsize=*:360",
+      "id": "vwx8"
+    },
+    {
+      "name": "Samsung Fold",
+      "price": "135000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Samsung Flip with foldable design, 8 GB RAM, and 256 GB Internal memory. 4 years of warranty.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2307/gallery/in-galaxy-z-fold5-f946-sm-f946blbdins-thumb-537240465?$344_344_PNG$",
+      "id": "yzab9"
+    },
+    {
+      "name": "Samsung A04",
+      "price": "15000",
+      "color": "pink",
+      "category": "mobile",
+      "description": "Samsung A04 with 4 GB RAM and 64 GB Internal memory. 2 years of warranty.",
+      "image": "https://www.reliancedigital.in/medias/Samsung-Galaxy-A04e-Mobile-Phone-493664699-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNzgwMnxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaDc2Lzk5MzY1OTQwNzU2NzguanBnfGYwYmExNWExYzY0OWU1N2E5ZDlkNjk0NjdmNmRhZGRkYjc3NDljNGJkYWNjYTA5NzAxZjkxODQ1ZjRhZTRlMjU",
+      "id": "abc1"
+    },
+    {
+      "name": "iPhone 6",
+      "price": "35000",
+      "color": "white",
+      "category": "mobile",
+      "description": "iPhone 6 with 1 GB RAM and 16 GB Internal memory. 1 year of warranty.",
+      "image": "https://www.smartcellular.in/media/catalog/product/cache/bf0ca523f7526fad50b11dad4e4bee43/r/e/refurbished_iphone_6_gold_4_2.jpg",
+      "id": "cde10"
+    },
+    {
+      "name": "iPhone 6S",
+      "price": "45000",
+      "color": "white",
+      "category": "mobile",
+      "description": "iPhone 6S with 2 GB RAM and 32 GB Internal memory. 1 year of warranty.",
+      "image": "https://ephonzone.in/cdn/shop/products/IP6SG_e7d593e0-ce2c-41bb-b1b4-b8fb43742455_1024x10241_575X670_crop_center.jpg?v=1659338302",
+      "id": "fgh11"
+    },
+    {
+      "id": "fsh11",
+      "category": "mobile",
+      "color": "pink",
+      "description": "iPhone 7 pink with 2 GB RAM and 128 GB Internal memory. 1 year of warranty.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCWboaJ1afDjPu3YZmpUgCnvXZ0xG5b6B1A&usqp=CAU",
+      "name": "iPhone 7 pink",
+      "price": "125000"
+    },
+    {
+      "id": "fgwq11",
+      "category": "mobile",
+      "color": "silver",
+      "description": "iPhone 8 with 2 GB RAM and 64 GB Internal memory. 1 year of warranty.",
+      "image": "https://zoneofdeals.com/storage/2022/09/iphone-8-64gb-sliver...jpg",
+      "name": "iPhone 8",
+      "price": "125000"
+    },
+    {
+      "id": "fqa11",
+      "category": "mobile",
+      "color": "silver",
+      "description": "iPhone 14 pro with 8 GB RAM and 256 GB Internal memory. 4 years of warranty.",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MPU73?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1678830616240",
+      "name": "iPhone 14 pro",
+      "price": "125000"
+    },
+    {
+      "id": "fx11",
+      "category": "mobile",
+      "color": "silver",
+      "description": "iPhone 14 with 6 GB RAM and 128 GB Internal memory. 3 years of warranty.",
+      "image": "https://media.croma.com/image/upload/v1662703653/Croma%20Assets/Communication/Mobiles/Images/261933_eiuolg.png",
+      "name": "iPhone 14",
+      "price": "125000"
+    },
+    {
+      "id": "6a75",
+      "name": "Puma",
+      "price": "2000",
+      "color": "black",
+      "category": "shoes",
+      "description": "Puma black shoes for perfect fit",
+      "image": "https://m.media-amazon.com/images/I/61X6V7qEERL._AC_UY1000_.jpg"
+    },
+    {
+      "id": "225e",
+      "name": "puma",
+      "price": "4000",
+      "color": "red",
+      "category": "shoes",
+      "description": "Puma red shoes with great look",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/e/f/6/-original-imagg3fnfkqknhrq.jpeg?q=90&crop=true"
+    },
+    {
+      "id": "59bc",
+      "name": "puma ",
+      "price": "23000",
+      "color": "green",
+      "category": "shoes",
+      "description": "Green puma shoes for football\n",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTlQTNOlB-MK2zkxTCID6wyPhjr3-Y3QQQQ&usqp=CAU"
+    },
+    {
+      "id": "3ac6",
+      "name": "lenovo",
+      "price": "50000",
+      "color": "silver",
+      "category": "laptop",
+      "description": "Lenovo laptop silver color with great slim look",
+      "image": "https://p1-ofp.static.pub//fes/cms/2023/07/18/qiz1eao6lmq6gdmp5boar653hv5gj9223089.png"
+    },
+    {
+      "name": "Huli",
+      "price": "10",
+      "color": "green",
+      "category": "wild animal",
+      "description": "wild animal",
+      "image": "https://cdn.britannica.com/40/75640-050-F894DD85/tiger-Siberian.jpg",
+      "id": "ebpTpE4"
+    }
+  ],
+  "user": [
+    {
+      "name": "Vinayak",
+      "email": "vik@123",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "vik",
+      "email": "vik@123",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "kisan",
+      "email": "kisan@123",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "vik",
+      "email": "email@123",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "vik",
+      "email": "ewrewe@1",
+      "password": "ewr",
+      "id": 6
+    },
+    {
+      "name": "vinayak",
+      "email": "vinayakkadlennavar@gmail.com",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "email@123",
+      "address": "",
+      "contact": "",
+      "userId": 5,
+      "totalPrice": 41950,
+      "status": "Delivered",
+      "date": "2024-02-01T11:57:55.951Z",
+      "id": 11
+    },
+    {
+      "email": "email@123",
+      "address": "",
+      "contact": "",
+      "userId": 5,
+      "totalPrice": 41950,
+      "status": "Cancelled",
+      "date": "2024-02-01T11:58:58.482Z",
+      "id": 12
+    },
+    {
+      "email": "email@123",
+      "address": "",
+      "contact": "",
+      "userId": 5,
+      "totalPrice": 41950,
+      "status": "Cancelled",
+      "date": "2024-02-01T11:59:09.031Z",
+      "id": 13
+    },
+    {
+      "email": "vik@123",
+      "address": "",
+      "contact": "",
+      "userId": 2,
+      "totalPrice": 297700,
+      "status": "Delivered",
+      "date": "2024-02-01T11:59:47.540Z",
+      "id": 14
+    },
+    {
+      "email": "email@123",
+      "address": "",
+      "contact": "",
+      "userId": 5,
+      "totalPrice": 41950,
+      "status": "In-progress",
+      "date": "2024-02-01T12:10:28.979Z",
+      "id": 16
+    },
+    {
+      "email": "vik@123",
+      "address": "",
+      "contact": "",
+      "userId": 2,
+      "totalPrice": 297700,
+      "status": "Delivered",
+      "date": "2024-02-01T12:11:00.244Z",
+      "id": 17
+    },
+    {
+      "email": "vik@123",
+      "address": "",
+      "contact": "",
+      "userId": 2,
+      "totalPrice": 23350,
+      "status": "Delivered",
+      "date": "2024-02-01T12:47:41.879Z",
+      "id": 18
+    },
+    {
+      "email": "vinayakkadlennavar@gmail.com",
+      "address": "SLNS Luxury PG for Gents Whitefield, KIADB Export Promotion Industrial Area, Krishnarajapura, Bengaluru, Karnataka 560066",
+      "contact": "08884293034",
+      "userId": 5,
+      "totalPrice": 23350,
+      "status": "In-progress",
+      "date": "2024-02-01T14:26:30.504Z",
+      "id": 19
+    },
+    {
+      "email": "email@123",
+      "address": "",
+      "contact": "",
+      "userId": 5,
+      "totalPrice": 100,
+      "status": "In-progress",
+      "date": "2024-02-01T14:56:18.035Z",
+      "id": 20
+    }
+  ]
+}
